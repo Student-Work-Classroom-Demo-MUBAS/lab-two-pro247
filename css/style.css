@@ -26,3 +26,27 @@ p {
     font-size: 22px;
     font-weight: bold;
 }
+
+.color-named {
+    color: rgb(74, 74, 10)
+}
+
+.color-hex {
+    color: #FF5733;
+}
+
+.color-hex2 {
+    color: #4CAF50;
+}
+
+.color-rgb {
+    color: rgb(166, 25, 46);
+}
+
+.color-hsl {
+    color: hsl(346, 74%, 37%);
+}
+
+.color.trans {
+    background-color: rgba(212, 160, 23, 0.15);
+}
