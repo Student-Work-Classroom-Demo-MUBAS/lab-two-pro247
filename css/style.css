@@ -1,15 +1,87 @@
+/* Tribute Pahe - ELE-IWS-521 Lab 2
+Student: Doreen Providence Abel
+ID: BECE/21/SS/001
+Subject: Martin (Martse) Nkhata
+*/
+blockquote {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #0D9488;
+    border-left: 4px solid #D4A017;
+    padding-left: 1.5rem;
+    margin: 2rem auto;
+    max-width: 600px;
+    font-style: italic;
+}
+
+.tribute-photo {
+    display: block;
+    margin: 1.5rem auto;
+    max-width: 320px;
+    height: auto;
+    border: 3px solid #D4A017;
+    border-radius: 8px;
+}
+
+.timeline-event {
+    margin-bottom: 0.75rem;
+}
+
+.timeline h2,
+.learnmore h2 {
+    border-bottom: 2px solid #D4A017;
+    display: inline-block;
+    padding-bottom: 0.25rem;
+}
+
 .important {
-    color: red;
-    font-weight: bold;
+    color: rgb(8, 7, 7);
+    font-weight: normal;
+}
+
+#page-header h1 {
+    text-align: center;
+    letter-spacing: 0.1em;
 }
 
 #page-header {
-    background-color: #2f2fe6;
+    background-color: #0d6737;
     padding: 2rem;
 }
 
 body {
     background-color: lightyellow;
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #1A1A2E;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Bebas Neue', Georgia, serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    color: #040912;
+    letter-spacing: 0.05em;
+}
+
+blockquote {
+    font-size: 1.1rem;
+    text-align: center;
+    color: #0D9488;
+    border-left: 4px solid #D4A017;
+    padding-left: 1.5rem;
+    margin: 2rem auto;
+    max-width: 600px;
 }
 
 p {
@@ -17,14 +89,14 @@ p {
     font-size: 16px;
 }
 
-.highlight {
+/*.highlight {
     background-color: #FBEFD3;
     padding: 8px;
-}
+}*/
 
 #intro {
-    font-size: 22px;
-    font-weight: bold;
+    font-size: 20px;
+    font-weight: normal;
 }
 
 .color-named {
