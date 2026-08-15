@@ -27,5 +27,8 @@ Steps I took to fix it:
 What I learned from this:
 Git's default branch name depends on local configuration, not the remote — it's worth checking git branch and git remote -v before pushing to a new repo instead of assuming they match.
 
-![Screenshot for Tribute](image.png)
-
+## session reflection
+The concept i fpund hardesr to understand during this session was the difference between rem, em and px.
+the moment it clicked was when i was able to have a complete working tribute page.
+One question i still have is: why do we have to create a folder for the css style instead of it being in the same root folder as index?
+ my browser output screenshot filename: ![Screenshot for Martse Tribute](image.png)
